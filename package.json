@@ -1,0 +1,26 @@
+{
+  "name": "gilded-rose-javascript",
+  "version": "1.0.0",
+  "description": "If you want to get cracking on the JavaScript source then do this:",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "^2.5.1"
+  },
+  "devDependencies": {
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guyroyse/gilded-rose-javascript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guyroyse/gilded-rose-javascript/issues"
+  },
+  "homepage": "https://github.com/guyroyse/gilded-rose-javascript#readme"
+}

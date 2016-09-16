@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guyroyse/gilded-rose-javascript.git"
+    "url": "git+https://github.com/robertfmurdock/gilded-rose-javascript.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/guyroyse/gilded-rose-javascript/issues"
+    "url": "https://github.com/robertfmurdock/gilded-rose-javascript/issues"
   },
-  "homepage": "https://github.com/guyroyse/gilded-rose-javascript#readme"
+  "homepage": "https://github.com/robertfmurdock/gilded-rose-javascript#readme"
 }

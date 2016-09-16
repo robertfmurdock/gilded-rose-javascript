@@ -1,7 +1,3 @@
-If you want to get cracking on the JavaScript source then do this:
-
-    git clone git@github.com:guyroyse/gilded-rose-javascript.git
-
 Hi and welcome to team Gilded Rose.
 
 As you know, we are a small inn with a prime location in a prominent city ran
